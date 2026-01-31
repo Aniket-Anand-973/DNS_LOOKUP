@@ -351,18 +351,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Aniket Anand**  
 Cybersecurity Enthusiast & Developer
 
-- **Email**: [aniket.anand973@example.com](mailto:aniket.anand973@example.com)
-- **GitHub**: [Aniket-Anand-973](https://github.com/Aniket-Anand-973)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
 
-## 📞 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/Aniket-Anand-973/DNS_LOOKUP/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Aniket-Anand-973/DNS_LOOKUP/discussions)
-- **Email**: aniket.anand973@example.com
-
----
-
-**Made with ❤️ by Aniket Anand**
 
